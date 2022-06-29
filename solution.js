@@ -22,14 +22,14 @@ console.log(aProfile.firstName + " " + aProfile.lastName +" is a " + aProfile.ag
 
 // Results
 
-This is an exercise in console logging
+//This is an exercise in console logging
 
-This is the value.
+//This is the value.
 
-Rami Al-Saadi
+//Rami Al-Saadi
 
-Rami Al-Saadi is a 36 year old software engineering prince who lives in Valley of the Wind
+//Rami Al-Saadi is a 36 year old software engineering prince who lives in Valley of the Wind
 
-Object { firstName: "Rami", lastName: "Al-Saadi", age: "36", job: "Prince", city: "Valley of the Wind" }
+//Object { firstName: "Rami", lastName: "Al-Saadi", age: "36", job: "Prince", city: "Valley of the Wind" }
 
-Rami Al-Saadi is a 36 year old software engineering prince who lives in Valley of the Wind
+//Rami Al-Saadi is a 36 year old software engineering prince who lives in Valley of the Wind
