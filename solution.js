@@ -16,7 +16,7 @@ let job = "Software Engineering Prince".toLowerCase();
 let age = 36;
 console.log(firstName + " " + lastName + " is a " + age + " year old " + job + " who lives in "+ city);
 
-let aProfile = {firstName, lastName, age, job, city};
+//let aProfile = {firstName, lastName, age, job, city};
 // console.log(aProfile);
 // console.log(aProfile.firstName + " " + aProfile.lastName +" is a " + aProfile.age + " year old "+ aProfile.job + " who lives in " + aProfile.city);
 
