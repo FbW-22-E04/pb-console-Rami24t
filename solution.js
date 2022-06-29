@@ -22,3 +22,11 @@ let aProfile = {firstName, lastName, age, job, city};
 console.log(aProfile);
 
 console.log(aProfile.firstName + " " + aProfile.lastName +" is a " + aProfile.age + " year old "+ aProfile.job + " who lives in " + aProfile.city);
+This is an exercise in console logging debugger eval code:3:9
+This is the value. debugger eval code:7:9
+Rami Al-Saadi debugger eval code:13:9
+Rami Al-Saadi is a 36 year old Prince who lives in Valley of the Wind debugger eval code:19:9
+Object { firstName: "Rami", lastName: "Al-Saadi", age: "36", job: "Prince", city: "Valley of the Wind" }
+debugger eval code:22:9
+Rami Al-Saadi is a 36 year old Prince who lives in Valley of the Wind debugger eval code:24:9
+undefined
