@@ -18,7 +18,7 @@ let age = "36";
 
 console.log(firstName + " " + lastName + " is a " + age + " year old " + job + " who lives in "+ city);
 
-let profile = {firstName, lastName, age, job, city};
+let aProfile = {firstName, lastName, age, job, city};
 console.log(profile);
 
 console.log(profile.firstName + " " + profile.lastName +" is a " + profile.age + " year old "+ profile.job + " who lives in " + profile.city);
