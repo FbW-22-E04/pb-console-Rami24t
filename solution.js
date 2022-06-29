@@ -13,7 +13,7 @@ console.log(firstName, lastName);
 
 let city = "Valley of the Wind";
 let job = "Software Engineering Prince".toLowerCase();
-let age = "36";
+let age = 36;
 console.log(firstName + " " + lastName + " is a " + age + " year old " + job + " who lives in "+ city);
 
 let aProfile = {firstName, lastName, age, job, city};
