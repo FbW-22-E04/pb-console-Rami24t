@@ -12,7 +12,7 @@ let lastName = 'Al-Saadi';
 console.log(firstName, lastName);
 
 let city = "Valley of the Wind";
-let job = "Prince";
+let job = "Software Engineering Prince";
 let age = "36";
 console.log(firstName + " " + lastName + " is a " + age + " year old " + job + " who lives in "+ city);
 
@@ -28,8 +28,8 @@ This is the value.
 
 Rami Al-Saadi
 
-Rami Al-Saadi is a 36 year old Prince who lives in Valley of the Wind
+Rami Al-Saadi is a 36 year old Software Engineering Prince who lives in Valley of the Wind
 
 Object { firstName: "Rami", lastName: "Al-Saadi", age: "36", job: "Prince", city: "Valley of the Wind" }
 
-Rami Al-Saadi is a 36 year old Prince who lives in Valley of the Wind
+Rami Al-Saadi is a 36 year old Software Engineering Prince who lives in Valley of the Wind
