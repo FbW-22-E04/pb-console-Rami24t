@@ -22,7 +22,7 @@ console.log(aProfile.firstName + " " + aProfile.lastName +" is a " + aProfile.ag
 
 // Results
 
-This is an exercise in console logging debugger
+This is an exercise in console logging
 
 This is the value.
 
